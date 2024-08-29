@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://invereou.github.io/sitemap.html.gz
+Sitemap: https://invereou.github.io/app/sitemap.html.gz
+Sitemap: https://invereou.github.io/assets/sitemap.html.gz
+Sitemap: https://invereou.github.io/css/sitemap.html.gz
+Sitemap: https://invereou.github.io/includes/sitemap.html.gz
+Sitemap: https://invereou.github.io/item/sitemap.html.gz
+Sitemap: https://invereou.github.io/src/sitemap.html.gz
